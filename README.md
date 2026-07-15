@@ -47,10 +47,6 @@ The objective of this project is to analyze hospital emergency room data and pre
 - Dashboard.png
 - README.md
 - Dataset.xlsx
-  
-## Dashboard Preview
-
-![Hospital Emergency Room Dashboard](dashboard.png)
 
 ## Conclusion
 
